@@ -242,7 +242,7 @@ stage/commit when youre done
 
 ## Submission Instructions
 
-1. **Submit a link to your github for gradescope**
+1. **Submit a link to your github forked repository on Gradescope**
 
 
 
