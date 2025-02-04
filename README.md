@@ -87,7 +87,7 @@ This should display the version of Git installed on your system.
 
     Now copy this question into the file and answer it 
    ```text
-   Q1: Why might be consider using git?
+   Q1: Why might we consider using Git?
 
    Answer: [Your answer here]
    ```
@@ -126,7 +126,7 @@ This should display the version of Git installed on your system.
 
 3. **Add your answer to the second question in** `answers.txt`:
    ```text
-   Q2: What field could data science be applied to? Give and Example and how it might help
+   Q2: What field could data science be applied to? Give an Example.
 
    Answer: [Your answer here]
    ```
@@ -166,7 +166,7 @@ This should display the version of Git installed on your system.
 
 ```text
 
-Q3: What is the difference between merging and rebasing?
+Q3: What is the difference between Merging and Rebasing?
 
 Answer: [Your answer here]
 
@@ -181,7 +181,7 @@ stage/commit when youre done
 
 2. **Add your answer to the fourth question** in `answers.txt`:
    ```text
-   Q4: What skills do you hope to improve during this course?
+   Q4: What are you looking forward to this semester?
 
    Answer: [Your answer here]
    ```
